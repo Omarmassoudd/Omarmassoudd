@@ -7,10 +7,12 @@ currently,  started a new position as **Data Science Trainee** @ **Digital Egypt
 𝗟𝗲𝘁’𝘀 𝗰𝗼𝗻𝗻𝗲𝗰𝘁 𝘁𝗼 𝗱𝗿𝗶𝘃𝗲 𝗶𝗻𝗻𝗼𝘃𝗮𝘁𝗶𝘃𝗲 𝗱𝗮𝘁𝗮 𝘀𝗼𝗹𝘂𝘁𝗶𝗼𝗻𝘀 𝗮𝗻𝗱 𝘁𝗲𝗰𝗵𝗻𝗼𝗹𝗼𝗴𝗶𝗰𝗮𝗹 𝗮𝗱𝘃𝗮𝗻𝗰𝗲𝗺𝗲𝗻𝘁𝘀!
 
 ## About Me
-- 💼 **Data Analyst** with junior experience in Python, SQL.
+- 💼 **Data Analyst** with Competency experience in Python, SQL.
+- 💼  **Data Visualization**: with Competency experience ,and knowledge in Matplotlib, Seaborn
 - 💼 **Machine Learning & Deep Learning** with competency in creating and optimizing models.
-- 🎓 **Studying Information Technology**
-- 
+- 🎓 **Studying Information Technology** At the Arab academy for Science,Technology ,and Maritime Transport(AASTMT)
+
+  
 ## 📞 **Connect with Me**
 
 📧 Email: [Omarmassouddd@gmaail.com](mailto:Omarmassouddd@gmail.com)                       <a href="https://linkedin.com/in/omar-masoudd" target="blank">
@@ -34,6 +36,10 @@ currently,  started a new position as **Data Science Trainee** @ **Digital Egypt
 
 ### Data Visualization:
 ![Tableau](https://img.shields.io/badge/Tableau-%23E97627.svg?style=for-the-badge&logo=tableau&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23007396.svg?style=for-the-badge&logo=sql&logoColor=orange)
+![SeaBorn](https://img.shields.io/badge/SeaBorn-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+
 
 ### Databases:
 ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
