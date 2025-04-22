@@ -7,13 +7,13 @@ currently,  started a new position as **Data Science Trainee** @ **Digital Egypt
 𝗟𝗲𝘁’𝘀 𝗰𝗼𝗻𝗻𝗲𝗰𝘁 𝘁𝗼 𝗱𝗿𝗶𝘃𝗲 𝗶𝗻𝗻𝗼𝘃𝗮𝘁𝗶𝘃𝗲 𝗱𝗮𝘁𝗮 𝘀𝗼𝗹𝘂𝘁𝗶𝗼𝗻𝘀 𝗮𝗻𝗱 𝘁𝗲𝗰𝗵𝗻𝗼𝗹𝗼𝗴𝗶𝗰𝗮𝗹 𝗮𝗱𝘃𝗮𝗻𝗰𝗲𝗺𝗲𝗻𝘁𝘀!
 
 ## About Me
-- 💼 **Data Analyst** with Competency experience in Python, SQL.
-- 💼  **Data Visualization**: with Competency experience ,and knowledge in Matplotlib, Seaborn
-- 💼 **Machine Learning & Deep Learning** with competency in creating and optimizing models.
-- 🎓 **Studying Information Technology** At the Arab academy for Science,Technology ,and Maritime Transport(AASTMT)
+-  **Data Analyst** with Competency experience in Python, SQL.
+-  **Data Visualization**: with Competency experience ,and knowledge in Matplotlib, Seaborn
+-  **Machine Learning & Deep Learning** with competency in creating and optimizing models.
+-  **Studying Information Technology** At the Arab academy for Science,Technology ,and Maritime Transport(AASTMT)
 
   
-## 📞 **Connect with Me**
+##  **Connect with Me**
 
 📧 Email: [Omarmassouddd@gmaail.com](mailto:Omarmassouddd@gmail.com)                       <a href="https://linkedin.com/in/omar-masoudd" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
